@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Adriannah-eng!
 
-<img src="profile-photo.jpg" alt="Adriannah-eng Profile Photo" width="250"/>
+
 
 Welcome to my GitHub profile!  
 I'm a passionate **Front-end Developer** with a growing interest in **Machine Learning** and a solid foundation in **Python** and **JavaScript**.
